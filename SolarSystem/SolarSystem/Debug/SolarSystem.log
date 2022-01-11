@@ -1,0 +1,13 @@
+﻿  SFML.cpp
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(4,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(5,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(46,93): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(47,92): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(48,91): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(49,88): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(50,91): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(51,90): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(52,89): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(53,89): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\SolarSystem\SFML.cpp(100,27): warning C4018: '<': signed/unsigned mismatch
+  SolarSystem.vcxproj -> D:\Computer_Science\Game Programming\Courses\Physics\SolarSystem\Debug\SolarSystem.exe
